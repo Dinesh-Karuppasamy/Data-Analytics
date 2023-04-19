@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Zomato Dataset
+# Exploratory Data Analysis on Marketing Campaign
 The dataset is analysed for finding the trends and results of multiple marketing campaigns conducted.
 
 **Dataset Source**-https://www.kaggle.com/datasets/jackdaoud/marketing-data

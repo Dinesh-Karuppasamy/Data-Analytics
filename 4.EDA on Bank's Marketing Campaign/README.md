@@ -1,4 +1,4 @@
-# Exploratory Data Analysis on Zomato Dataset
+# Exploratory Data Analysis Bank's Marketing Campaign
 The dataset on Bank's marketing campaign is analysed for finding the trend of subscription of term deposit.
 
 **Dataset Source**-https://archive.ics.uci.edu/ml/citation_policy.html

@@ -4,4 +4,4 @@ This repository consists of all projects I have done on exploratory data analysi
 
 **Tools used**- Jupyter notebook , Tableau
 
-**Language and Packages uesd**- Python (Pandas,Numpy,Matplotlib,Numpy)
+**Language and Packages used**- Python (Pandas,Numpy,Matplotlib,Numpy)

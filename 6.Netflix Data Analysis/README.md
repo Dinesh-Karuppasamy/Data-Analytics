@@ -1,6 +1,8 @@
 # Sample Superstore Analysis
-The sample dataset present in tableau is analysed for sales trend and a story is created for sales of tables.
+Created an interactive dashboard of Netflix shows using Tableau, analyzing the dataset to gain insights and showcase key findings.
 
 **Tools used**- Tableau
 
-## Dashboards Created
+## Dashboard Created
+
+
